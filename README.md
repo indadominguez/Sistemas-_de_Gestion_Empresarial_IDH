@@ -28,7 +28,7 @@ Es un ERP muy usado en pequeñas y medianas empresas. Permite gestionar contabil
 
 ### 5. Odoo
 
-Y por último el ERP que vamos a utilizar en el trabajo, **ODOO** es un ERP de código abierto muy popular. Ofrece módulos como ventas, contabilidad, inventario, CRM y recursos humanos, siendo muy flexible y personalizable.
+Y por último el ERP que vamos a utilizar en el trabajo, "**ODOO**", es un ERP de código abierto muy popular. Ofrece módulos como ventas, contabilidad, inventario, CRM y recursos humanos, siendo muy flexible y personalizable.
 
 **Pequeña tabla con las características principales de los ERP**
 
@@ -40,6 +40,7 @@ Y por último el ERP que vamos a utilizar en el trabajo, **ODOO** es un ERP de c
 | Escalabilidad       | Se adaptan al crecimiento empresarial |
 | Acceso centralizado | Información disponible en tiempo real |
 
+---
 
 2. Instalación.
 
