@@ -8,7 +8,7 @@ En este trabajo se analizan las características principales de los ERP, su inst
 
 ## 1. Aplicaciones de gestión empresarial. Tipos. Características.
 
-Los sistemas ERP son herramientas clave en la transformación digital de las empresas, estos son 5 ejemplos de ERP prestigiosas y funcionales.
+Los sistemas de gestión empresarial son herramientas clave en la transformación digital de las empresas, estos son 5 ejemplos importantes.
 
 ### 1. SAP ERP
 
@@ -18,13 +18,13 @@ Es uno de los sistemas ERP más utilizados en grandes empresas. Permite gestiona
 
 Es una suite empresarial en la nube que integra ERP y CRM. Permite gestionar finanzas, ventas, atención al cliente y operaciones con integración con herramientas de Microsoft.
 
-### 3. Oracle ERP Cloud
+### 3. Oracle SCM Cloud
 
-Es una solución ERP en la nube muy potente orientada a grandes empresas. Destaca por su gestión avanzada de finanzas, proyectos, compras y cadena de suministro.
+Es una solución SCM en la nube muy potente orientada a grandes empresas. Destaca por su gestión avanzada de finanzas, proyectos, compras y cadena de suministro.
 
-### 4. Sage Business Cloud
+### 4. Power BI
 
-Es un ERP muy usado en pequeñas y medianas empresas. Permite gestionar contabilidad, facturación, nóminas e inventario de forma sencilla.
+Es una herramienta de Business Intelligence (BI) desarrollada por Microsoft que permite analizar datos, crear informes interactivos y visualizar información de forma clara y profesional.
 
 ### 5. Odoo
 
@@ -55,9 +55,3 @@ Y por último el ERP que vamos a utilizar en el trabajo, "**ODOO**", es un ERP d
 ## 7. Exportación de información.
 
 ## 8. Elaboración de documentación.
-
-
-   
- 
-   
-
