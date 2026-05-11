@@ -2,9 +2,9 @@
 
 ## Introducción
 
-Los sistemas de gestión empresarial, también conocidos como ERP (Enterprise Resource Planning), son aplicaciones informáticas diseñadas para gestionar y automatizar los procesos de una empresa. Permiten integrar distintas áreas como ventas, compras, contabilidad o recursos humanos en una única plataforma.
+En la actualidad, las empresas utilizan diferentes sistemas informáticos para gestionar su información y optimizar sus procesos. Estos sistemas se conocen como sistemas de gestión empresarial, y permiten organizar, automatizar y controlar las distintas áreas de una organización.
 
-En este trabajo se analizan las características principales de los ERP, su instalación, configuración, seguridad, generación de informes y exportación de datos, utilizando como ejemplo práctico el sistema Odoo.
+Aunque los sistemas ERP (Enterprise Resource Planning) son los más conocidos, no son los únicos. Existen otros tipos de sistemas especializados que cubren necesidades concretas dentro de la empresa. Por ejemplo, los sistemas CRM (Customer Relationship Management) se centran en la gestión de clientes, mientras que los sistemas de Business Intelligence (BI) permiten analizar datos y generar informes para la toma de decisiones.
 
 ## 1. Aplicaciones de gestión empresarial. Tipos. Características.
 
