@@ -42,19 +42,19 @@ Y por último el ERP que vamos a utilizar en el trabajo, "**ODOO**", es un ERP d
 
 ---
 
-2. Instalación.
+## 2. Instalación.
 
-3. Administración y configuración.
+## 3. Administración y configuración.
 
-4. Integración de módulos.
+## 4. Integración de módulos.
 
-5. Mecanismos de acceso seguro a la información. Roles y privilegios.
+## 5. Mecanismos de acceso seguro a la información. Roles y privilegios.
 
-6. Elaboración de informes.
+## 6. Elaboración de informes.
 
-7. Exportación de información.
+## 7. Exportación de información.
 
-8. Elaboración de documentación.
+## 8. Elaboración de documentación.
 
 
    
