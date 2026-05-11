@@ -8,7 +8,16 @@ Aunque los sistemas ERP (Enterprise Resource Planning) son los más conocidos, n
 
 ## 1. Aplicaciones de gestión empresarial. Tipos. Características.
 
-Los sistemas de gestión empresarial son herramientas clave en la transformación digital de las empresas, estos son 5 ejemplos importantes.
+| Tipo | Función principal                                          |
+| ---- | ---------------------------------------------------------- |
+| ERP  | Integra y gestiona todos los procesos de la empresa        |
+| CRM  | Gestiona clientes, ventas y relaciones comerciales         |
+| BI   | Analiza datos y genera informes para la toma de decisiones |
+| SCM  | Controla la cadena de suministro y logística               |
+| HRM  | Gestiona empleados y recursos humanos                      |
+| DMS  | Administra documentos y archivos digitales                 |
+
+
 
 ### 1. SAP ERP
 
