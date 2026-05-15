@@ -54,7 +54,7 @@ Y por último el ERP que vamos a utilizar en el trabajo, "**ODOO**", es un ERP d
 ## 2. Instalación.
 
 ### 2.1 Docker
-Lo primero que hemos realizado ha sido la instalación de **docker**( plataforma de código abierto que permite empaquetar aplicaciones y todas sus dependencias en contenedores), gracias a este podemos hacer montar un sistema completo como si fuera “una empresa simulada” en nuestro propio ordenador sin instalaciones manuales.
+Lo primero que hemos realizado ha sido la instalación de **docker**(plataforma de código abierto que permite empaquetar aplicaciones y todas sus dependencias en contenedores), gracias a este podemos hacer montar un sistema completo como si fuera “una empresa simulada” en nuestro propio ordenador sin instalaciones manuales.
 
 ![DOCKER INSTALADO](assets/img/docker.png)
 
@@ -105,8 +105,11 @@ Ya para terminar, Odoo se conecta automáticamente con PostgreSQL y:
 
 ---
 
-
 ## 3. Administración y configuración.
+
+La administración y configuración del sistema de Odoo permite adaptar el ERP a las necesidades especificas de una empresa, gestionando tanto los datos como el comportamiento del sistema.
+
+---
 
 ## 4. Integración de módulos.
 
