@@ -53,6 +53,59 @@ Y por último el ERP que vamos a utilizar en el trabajo, "**ODOO**", es un ERP d
 
 ## 2. Instalación.
 
+### 2.1 Docker
+Lo primero que hemos realizado ha sido la instalación de **docker**( plataforma de código abierto que permite empaquetar aplicaciones y todas sus dependencias en contenedores), gracias a este podemos hacer montar un sistema completo como si fuera “una empresa simulada” en nuestro propio ordenador sin instalaciones manuales.
+
+![DOCKER INSTALADO](assets/img/docker.png)
+
+**Herramientas utilizadas con docker**:
+- Docker Desktop
+- Docker Compose
+- Odoo container
+- PostgreSQL container
+
+Para comenzar, hemos creado un archivo docker-compose.yml con la siguiente configuración:
+
+- Servicio Odoo (ERP)
+- Servicio PostgreSQL (base de datos)
+- Conexión entre ambos mediante red interna
+- Puerto expuesto: 8069
+
+Y para poder iniciar el sistema se utiliza el comando `docker compose up -d` y accedemos al sistema con `http://localhost:8069`
+
+![CONFIGURACIÓN DOCKER](assets/img/configuracion.png)
+
+![INSTALACIÓN](assets/img/odoo_postgre.png)
+
+### 2.2 Odoo Server y PostgreSQL
+
+El sistema funciona con dos componentes principales y ambos trabajan de forma conjunta para gestionar toda la información empresarial:
+
+- Odoo Server → interfaz y lógica del ERP
+    - Reación de base de datos
+    - Configuración de usuario administrador
+    - Acceso al panel principal
+    - Uso de módulos (ventas, inventario, CRM…)
+  
+- PostgreSQL → almacenamiento de datos
+
+Una vez desplegado Odoo mediante Docker, el siguiente paso es la creación de una base de datos, necesaria para almacenar toda la información del sistema.
+
+Al acceder a la aplicación desde el navegador `http://localhost:8069`, Odoo muestra una pantalla inicial donde se solicita la creación de una nueva base de datos.
+
+![BD](assets/img/base_datos.png)
+
+Ya para terminar, Odoo se conecta automáticamente con PostgreSQL y:
+- Se crea la base de datos en el servidor
+- Se inicializan las tablas necesarias
+- Se cargan datos básicos del sistema
+- Se accede al panel principal del ERP
+
+![ODOO](assets/img/odoo.png)
+
+---
+
+
 ## 3. Administración y configuración.
 
 ## 4. Integración de módulos.
