@@ -109,9 +109,13 @@ Ya para terminar, Odoo se conecta automáticamente con PostgreSQL y:
 
 La administración y configuración del sistema de Odoo permite adaptar el ERP a las necesidades especificas de una empresa, gestionando tanto los datos como el comportamiento del sistema.
 
+
+
 ---
 
 ## 4. Integración de módulos.
+
+
 
 ## 5. Mecanismos de acceso seguro a la información. Roles y privilegios.
 
