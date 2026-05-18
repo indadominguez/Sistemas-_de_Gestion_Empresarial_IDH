@@ -107,13 +107,32 @@ Ya para terminar, Odoo se conecta automáticamente con PostgreSQL y:
 
 ## 3. Administración y configuración.
 
-La administración y configuración del sistema de Odoo permite adaptar el ERP a las necesidades especificas de una empresa, gestionando tanto los datos como el comportamiento del sistema.
+La administración y configuración del sistema de Odoo permite adaptar el ERP a las necesidades específicas de una empresa, gestionando tanto los datos como el comportamiento del sistema.
+
+En primer lugar, se han configurado los datos principales de la empresa desde el apartado de ajustes:
+
+- Nombre de la empresa
+- Dirección
+- País
+- Moneda
+- Idioma
+
+Esta configuración es esencial para adaptar el sistema al entorno real de trabajo y poder gestionar a los diferentes usuarios gracias a la creación de un nuevo usuario, asignación de correo electrónico y  configuración de contraseña.
+
+Los usuarios son parte principal del mantenimiento del sistema y tienen asignados distintos niveles de acceso en función de su rol:
+
+- Usuario Básico: Acceso limitado
+- Usuario de ventas: Acceso a clientes y pedidos
+- Administrados: Acceso completo
+
+![USUARIOS](assets/img/usuarios.png)
 
 
 
 ---
 
 ## 4. Integración de módulos.
+
 
 
 
