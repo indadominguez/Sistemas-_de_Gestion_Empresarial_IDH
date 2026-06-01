@@ -131,15 +131,108 @@ Los usuarios son parte principal del mantenimiento del sistema y tienen asignado
 
 ---
 
-## 4. Integración de módulos.
+## 4. Integración de módulos
 
+La integración de módulos en Odoo permite conectar diferentes áreas de la empresa en un único sistema, compartiendo información en tiempo real.
 
+En este proyecto se ha realizado una integración práctica simulando el funcionamiento de un restaurante mediante el uso de varios módulos.
 
+### Módulos utilizados
 
-## 5. Mecanismos de acceso seguro a la información. Roles y privilegios.
+* Punto de Venta (POS)
+* Ventas
+* Inventario
 
-## 6. Elaboración de informes.
+### Caso práctico
 
-## 7. Exportación de información.
+Se han creado productos que representan platos del restaurante, como hamburguesas, pizzas y bebidas, configurándolos con su precio correspondiente.
 
-## 8. Elaboración de documentación.
+Posteriormente, se ha utilizado el módulo de Punto de Venta para realizar ventas simuladas.
+
+### Integración comprobada
+
+Al realizar una venta:
+
+* Se registra automáticamente en el sistema
+* Se actualiza el inventario
+* Se almacena el historial de ventas
+
+Esto demuestra la correcta integración entre los módulos utilizados.
+
+---
+
+## 5. Mecanismos de acceso seguro. Roles y privilegios
+
+Odoo dispone de un sistema de seguridad basado en usuarios y permisos.
+
+### Gestión de usuarios
+
+Se han creado distintos usuarios dentro del sistema para simular diferentes roles en la empresa.
+
+### Roles configurados
+
+* Administrador → acceso total
+* Usuario de ventas → acceso limitado a ventas
+* Usuario básico → acceso restringido
+
+### Seguridad
+
+Cada usuario tiene permisos específicos que limitan su acceso a la información y funcionalidades del sistema, garantizando la seguridad de los datos.
+
+---
+
+## 6. Elaboración de informes
+
+Odoo permite generar informes automáticos a partir de los datos almacenados.
+
+### Informes generados
+
+* Informe de ventas
+* Estadísticas de productos
+
+### Utilidad
+
+Estos informes permiten analizar la actividad del negocio y facilitar la toma de decisiones.
+
+---
+
+## 7. Exportación de información
+
+El sistema permite exportar datos para su uso en otras herramientas.
+
+### Acciones realizadas
+
+* Exportación de productos
+* Exportación de ventas
+
+### Formatos utilizados
+
+* CSV
+* Excel
+
+Esto facilita la integración con aplicaciones externas y el análisis de datos.
+
+---
+
+## 8. Elaboración de documentación
+
+Se ha elaborado documentación detallada del proceso completo del proyecto.
+
+### Contenido de la documentación
+
+* Instalación de Odoo mediante Docker
+* Configuración del sistema
+* Creación de base de datos
+* Gestión de productos
+* Integración de módulos
+
+### Objetivo
+
+Permitir que cualquier usuario pueda reproducir el sistema siguiendo los pasos indicados.
+
+---
+
+## Conclusión
+
+El uso de Odoo ha permitido simular un entorno empresarial real, aplicando conceptos de integración, seguridad, gestión de datos y análisis de información, cumpliendo con los objetivos del proyecto.
+
