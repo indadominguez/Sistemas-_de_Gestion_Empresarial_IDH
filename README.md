@@ -143,9 +143,11 @@ En este proyecto se ha realizado una integración práctica simulando el funcion
 * Ventas
 * Inventario
 
+![Presupuesto](image-1.png)
+
 ### Caso práctico
 
-Se han creado productos que representan platos del restaurante, como hamburguesas, pizzas y bebidas, configurándolos con su precio correspondiente.
+Se han creado productos que representan platos del restaurante, en nuestro caso de ejemplo, nuestro Kebab, configurándolo con su precio correspondiente.
 
 Posteriormente, se ha utilizado el módulo de Punto de Venta para realizar ventas simuladas.
 
@@ -158,6 +160,8 @@ Al realizar una venta:
 * Se almacena el historial de ventas
 
 Esto demuestra la correcta integración entre los módulos utilizados.
+
+![Kebab_Pollo](image.png)
 
 ---
 
@@ -179,6 +183,8 @@ Se han creado distintos usuarios dentro del sistema para simular diferentes role
 
 Cada usuario tiene permisos específicos que limitan su acceso a la información y funcionalidades del sistema, garantizando la seguridad de los datos.
 
+![Usuarios](image-2.png)
+
 ---
 
 ## 6. Elaboración de informes
@@ -193,6 +199,8 @@ Odoo permite generar informes automáticos a partir de los datos almacenados.
 ### Utilidad
 
 Estos informes permiten analizar la actividad del negocio y facilitar la toma de decisiones.
+
+![Utilidad](image-3.png)
 
 ---
 
@@ -211,6 +219,8 @@ El sistema permite exportar datos para su uso en otras herramientas.
 * Excel
 
 Esto facilita la integración con aplicaciones externas y el análisis de datos.
+
+![Exportar_Pedidos/Productos](image-4.png)
 
 ---
 
